@@ -1,3 +1,8 @@
 this is sample file
 
 The sample file has been updated.
+
+Ok. The file has been received.
+
+You can continue to edit.
+
