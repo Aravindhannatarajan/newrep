@@ -1,1 +1,5 @@
 this is sample file
+
+Ok. The file has been received.
+
+You can continue to edit.
